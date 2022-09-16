@@ -1,9 +1,4 @@
-1# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-@author:joy 
-"""
-#(1)LOADING DATA
+
 #Import libraries
 import pandas as pd
 import numpy as np
